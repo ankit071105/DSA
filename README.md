@@ -30,22 +30,22 @@ DSA/
 
 ## 💻 Language
 
-- Python 🐍
+- Python 
 
-## 🎯 Goals
+##  Goals
 
 - Solve DSA problems daily.
 - Master fundamental data structures and algorithms.
 - Improve coding interview skills.
 - Build consistency through daily practice.
 
-## 📈 Progress
+##  Progress
 
 - ✅ Daily commits
 - ✅ Well-organized solutions
 - ✅ Interview-focused practice
 
-## 🌟 Platforms
+##  Platforms
 
 - LeetCode
 - GeeksforGeeks
